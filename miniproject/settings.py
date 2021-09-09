@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'mini.apps.MiniConfig',
     'rest_framework',
     'corsheaders',
-
 ]
 
 MIDDLEWARE = [
